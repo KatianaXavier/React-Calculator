@@ -4,7 +4,7 @@
 
 ### 👩🏻‍💻 Projeto
 
-<strong>Calculadora</strong> desenvolvido durante o Bootcamp Orange Tech + da DIO. Nela foram:
+<strong>Calculadora</strong> desenvolvida durante o Bootcamp Orange Tech + da DIO. Nela foram:
 
 - criados componentes, 
 - implementadas funcionalidades e
